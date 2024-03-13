@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"adminInterface","l":"AdminImpl"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"adminInterface","l":"I_Admin"}];updateSearchResults();
